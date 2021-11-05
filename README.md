@@ -1,5 +1,5 @@
-👋 Hi, I’m @AndrewRimington
--  
+Hi, I’m @AndrewRimington 👋
+
   I am a currently a Python developer but I am always seeking to do more projects and will try learning other languages/tools. I like to learn about almost everything. I enjoy the process and am not afraid to step out of my comfort zone to learn. I am always interacting with other developers to learn from them as well. Feel free to connect with me on the platforms listed below if you want to collaborate with me. Who know's, maybe we will learn a great deal from one another :)
   
 - 👀 I’m interested in data visualizations
