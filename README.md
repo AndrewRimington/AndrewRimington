@@ -5,3 +5,5 @@
 - 👀 I’m interested in data visualizations
 - 🤝 I’m looking to collaborate on web and game development
 - 🎯 Goals for this year: Learn more about game and web development
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AndrewRimington)](https://github.com/AndrewRimington/github-readme-stats)
