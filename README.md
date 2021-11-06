@@ -6,4 +6,5 @@
 - 🤝 I’m looking to collaborate on web and game development
 - 🎯 Goals for this year: Learn more about game and web development
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AndrewRimington)](https://github.com/AndrewRimington/github-readme-stats)
+[![AndrewRimington's GitHub stats](https://github-readme-stats.vercel.app/api?username=AndrewRimington)](https://github.com/AndrewRimington/github-readme-stats)
+![AndrewRimington's GitHub stats](https://github-readme-stats.vercel.app/api?username=AndrewRimington&show_icons=true&theme=radical)
